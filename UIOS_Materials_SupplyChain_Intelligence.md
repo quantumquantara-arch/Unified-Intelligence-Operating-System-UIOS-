@@ -1,6 +1,4 @@
-# UIOS_Materials_SupplyChain_Intelligence.md
-
-Unified Intelligence Operating System (UIOS)  
+# Unified Intelligence Operating System (UIOS)  
 Materials, Supply Chain, and Global Sourcing Intelligence Module
 
 ---
